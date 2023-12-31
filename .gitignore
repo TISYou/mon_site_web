@@ -1,3 +1,7 @@
 tmp/todo.txt
 tmp/*
+<<<<<<< HEAD
 master
+=======
+origin/master
+>>>>>>> a98f17a3c1743ea41a3bfffa1342d0d961c235f3
